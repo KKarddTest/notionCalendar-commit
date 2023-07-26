@@ -1,5 +1,5 @@
 // Github Nickname Setting
-const username = "KKardd";
+const username = "KKarddTest";
 // Insert your github nickname
 
 const {Client} = require("@notionhq/client");
